@@ -804,3 +804,11 @@
 2023-04-04 10:27:08,363 : INFO : test_editUser : success message recieved from edit user User [Kailash Modi] Saved Successfully
 2023-04-04 10:27:08,363 : INFO : test_editUser : success message recieved from edit user User [Kailash Modi] Saved Successfully
 2023-04-04 10:27:08,363 : INFO : test_editUser : success message recieved from edit user User [Kailash Modi] Saved Successfully
+2023-04-04 11:18:20,550 : INFO : test_login : Login with this mobile number 9876543210
+2023-04-04 11:18:20,551 : INFO : test_login : Login with this password P@ssw0rd
+2023-04-04 11:18:42,382 : INFO : test_editUser : success message recieved from edit user User [Shivangi Patel] Saved Successfully
+2023-04-04 11:19:12,407 : INFO : test_editUser : success message recieved from edit user User [Umesh Shah] Saved Successfully
+2023-04-04 11:19:12,407 : INFO : test_editUser : success message recieved from edit user User [Umesh Shah] Saved Successfully
+2023-04-04 11:19:42,399 : INFO : test_editUser : success message recieved from edit user User [Kailash Modi] Saved Successfully
+2023-04-04 11:19:42,399 : INFO : test_editUser : success message recieved from edit user User [Kailash Modi] Saved Successfully
+2023-04-04 11:19:42,399 : INFO : test_editUser : success message recieved from edit user User [Kailash Modi] Saved Successfully

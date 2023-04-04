@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
 
 from pageobjects.addpage import addpage
+from pageobjects.deleteuserpage import deleteuserpage
 from pageobjects.editpage import editpage
 
 
@@ -29,4 +30,10 @@ class listpage:
 
         EditPage = editpage(self.driver)
         return EditPage
+    def UserdeleteList(self):
+        #print(userid)
+        self.driver.find_element(*listpage.user).click()
+
+        DeleteUserPage = deleteuserpage(self.driver)
+        return DeleteUserPage
 
